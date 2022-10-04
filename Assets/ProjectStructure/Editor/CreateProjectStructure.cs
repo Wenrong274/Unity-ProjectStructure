@@ -148,7 +148,7 @@ namespace ProjectStructureGenerator
 
             /// UI
             UI_s1.Add("00_Textures");
-            var UIExampleEffect_s2 = UI_s1.Add("Example_Effect");
+            var UIExampleEffect_s2 = UI_s1.Add("Effect");
             UIExampleEffect_s2.Add("Textures");
             UIExampleEffect_s2.Add("Animations");
             UIExampleEffect_s2.Add("Material");
