@@ -22,15 +22,11 @@
         |   |   |- Models
         |   |   |- UI
         |   |- 01_Shaders
-        |   |   |- UI_Shaders
+        |   |   |- UI_Shaders - 範例取名 不要使用它
         |   |- 02_Timeline
         |   |- 03_Models
-        |   |   |- Example_Model
-        |   |   |   |- 3D
-        |   |   |   |- Animation
-        |   |   |   |- Textures
-        |   |   |- Example_Effect
-        |   |       |- Textures
+        |   |   |- Example_Model - 範例取名 不要使用它
+        |   |   |- Example_Effect - 範例取名 不要使用它
         |   |- 04_Scenes
         |   |- 05_UI
         |   |   |- Textures
@@ -54,5 +50,4 @@ ____________________________________________________________
 
 [img_1]:https://imgur.com/iBAEGNO.png
 [ref]:https://github.com/dkoprowski/UnityProjectTreeGenerator
-
 [github]:https://github.com/Wenrong274/Unity-ProjectStructure

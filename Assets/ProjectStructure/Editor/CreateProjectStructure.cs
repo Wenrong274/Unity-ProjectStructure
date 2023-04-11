@@ -135,16 +135,12 @@ namespace ProjectStructureGenerator
             Prefabs_s1.Add("UI");
 
             /// Shaders
-            Shaders_s1.Add("UI_Shaders");
+            Shaders_s1.Add("UI_Shaders - 範例取名 不要使用它");
 
             /// Models
-            var ModelsExampleModel_s2 = Models_s1.Add("Example_Model");
-            ModelsExampleModel_s2.Add("3D");
-            ModelsExampleModel_s2.Add("Animations");
-            ModelsExampleModel_s2.Add("Textures");
-
-            var ModelsExampleEffect_s2 = Models_s1.Add("Example_Effect");
-            ModelsExampleEffect_s2.Add("Textures");
+            var ModelsExampleModel_s2 = Models_s1.Add("Example_Model - 範例取名 不要使用它");
+ 
+            var ModelsExampleEffect_s2 = Models_s1.Add("Example_Effect - 範例取名 不要使用它");
 
             /// UI
             UI_s1.Add("00_Textures");
